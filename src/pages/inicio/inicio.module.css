@@ -1,0 +1,51 @@
+.primeiraSessaoInicio {
+  height: 75vh;
+  width: 100%;
+  background-image: url("../../assets/banner.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  padding-left: 6%;
+}
+.primeiraSessaoInicio h2 {
+  color: #fff;
+  font-size: 32px;
+  width: 20%;
+}
+
+s.porqueDoarSection {
+  display: flex;
+  border: solid red;
+  height: 75vh;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+}
+s.porqueDoarSection h2 {
+  border: solid;
+  width: 90%;
+  font-size: 40px;
+  color: #005695;
+}
+
+.cardsMotivos {
+  border: solid blue;
+  display: flex;
+  height: 50vh;
+}
+.cardsMotivos section {
+  background-color: rgba(1, 87, 148, 0.3019607843);
+  border: solid green;
+  width: 20%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  border-radius: 10px;
+}
+.cardsMotivos section p {
+  font-size: 22px;
+  text-align: center;
+  width: 80%;
+}/*# sourceMappingURL=inicio.module.css.map */
